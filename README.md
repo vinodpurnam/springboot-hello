@@ -12,4 +12,3 @@
 # Deploy springboot application:
     java -jar gs-spring-boot-0.1.0.jar
 
-123
